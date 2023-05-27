@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning HTML, CSS, Javascript and PHP, mainly.
 
-- 🧑‍💼 I am looking for a one month internship in September, near Paris, as a web developer
-
 - 📫 How to reach me : clhubertmail[at]gmail.com
 
 
