@@ -10,7 +10,7 @@
 - https://jadouraini-avocat.com/ (Next.js)
 - https://www.lepidufermier.com/ (Symfony)
 
-🌱 Project in progress: application for managing one's indoor plants. 
+🏗️ 🌱 Project in progress: application for managing one's indoor plants. 
 
 <!---
 clhubdev/clhubdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
