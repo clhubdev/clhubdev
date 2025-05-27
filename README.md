@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Clément HUBERT @clhubdev, apprentice developer
+- 👋 Hi, I’m Clément HUBERT @clhubdev, full-stack developper
+- ⚙️ Stack: REACT, Next.js, Express, Javascript, SQL, Docker ...
+- 🔎 I'm looking for my next assignment in France. Please do not hesitate to contact me to discuss this.
+- 📫 How to reach me : clhubertmail[at]gmail.com.
 
-- 🌱 I’m currently learning HTML, CSS, Javascript and PHP, mainly.
 
-- 📫 How to reach me : clhubertmail[at]gmail.com
+💻 Others projects but privates repositories : 
 
+- https://jadouraini-avocat.com/
+- https://www.lepidufermier.com/
 
 <!---
 clhubdev/clhubdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
