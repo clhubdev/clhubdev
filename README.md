@@ -6,8 +6,8 @@
 
 💻 Others projects but privates repositories : 
 
-- https://jadouraini-avocat.com/
-- https://www.lepidufermier.com/
+- https://jadouraini-avocat.com/ (Next.js)
+- https://www.lepidufermier.com/ (Symfony)
 
 <!---
 clhubdev/clhubdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
